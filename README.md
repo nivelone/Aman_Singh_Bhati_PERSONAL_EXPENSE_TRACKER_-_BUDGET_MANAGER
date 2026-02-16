@@ -150,10 +150,11 @@ Enter description: Lunch at restaurant
 
 - **Name:** Aman Singh Bhati
 - **Batch:** ITC Infotech Python Developer Course
-- **Date:** February 2026
+- **Date:** 15 February 2026
 - **Email:** amanbhati2004@email.com
 - **GitHub:** https://github.com/nivelone
 
 ## License
 
 This project is created for educational purposes as part of the ITC Infotech Python Developer training program.
+
